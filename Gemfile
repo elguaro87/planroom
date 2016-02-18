@@ -29,6 +29,7 @@ gem 'aws-sdk', '< 2.0'
 gem 'masonry-rails', '~> 0.2.0'
 
 
+gem 'nifty-generators', :group => :development
 
 
 group :development, :test do
